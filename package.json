@@ -1,0 +1,13 @@
+{
+  "name": "auto-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "autoExportSvg.js",
+  "type": "module",
+  "scripts": {
+    "autoexp": "node autoExportSvg.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
